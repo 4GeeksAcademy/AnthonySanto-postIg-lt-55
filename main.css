@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #fff;
+  background-color: #000000;
   color: #000;
   height: 100vh;
   overflow-y: auto;
@@ -16,13 +16,13 @@ body {
 
 .post-card {
   width: 100%;
-  max-width: 600px;
+  max-width: 400px;
   background-color: #fff;
   display: flex;
   flex-direction: column;
   border: 1px solid #ddd;
-  margin-top: 20px;
-  margin-bottom: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .post-header {
